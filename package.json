@@ -1,12 +1,12 @@
 {
-  "name": "pdf",
+  "name": "app",
   "version": "0.1.0",
   "main": "public/electron.js",
   "private": true,
   "author": "Marcus Elliott",
-  "description": "PDF Merging tool",
+  "description": "description",
   "build": {
-    "appId": "pdf.merge"
+    "appId": "app.id"
   },
   "homepage": "./",
   "dependencies": {
